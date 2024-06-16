@@ -1,0 +1,10 @@
+We can follow other approaches for the given problem such as:
+
+Abstract Syntax Tree (AST) Parsing
+Keyword-Based Segmentation
+Machine Learning Approach
+Heuristic-Based Extraction
+Library/API Usage
+Text Processing with Context Awareness
+Language-Specific Query Extraction Tool
+Manual Annotation and Script-Aided Extraction
